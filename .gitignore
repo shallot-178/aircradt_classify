@@ -1,0 +1,13 @@
+.ipynb_checkpoints/
+work/.ipynb_checkpoints/
+work/src/.ipynb_checkpoints/
+work/src/__pycache__/
+work/src/data/
+work/src/logs/b4/*.pth
+work/src/logs/*.csv
+work/source/.ipynb_checkpoints/
+rodata/
+work/src/pretrained/.ipynb_checkpoints/
+work/src/cam/*.jpg
+work/src/logs/EfficientNetb4.log
+data_zip/

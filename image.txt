@@ -1,0 +1,1 @@
+192.168.50.21/slab/simpleedu_pytorch_gpu:18.04_cuda10.2_cudnn7_v1.4
